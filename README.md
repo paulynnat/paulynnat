@@ -20,11 +20,11 @@ The five moves: Scan the whole board · Spot the open three · Block the four fi
 
 - [privacy](https://paulynnat.github.io/privacy): privacy policies for Digital Literacy Studio apps, including Five in a Row.
 - [moonshot](https://github.com/paulynnat/moonshot) and [moonshot-data](https://github.com/paulynnat/moonshot-data): LLM evaluation and red-teaming work, written up in [Running LLM models locally: is that possible?](https://medium.com/@paulynnat) <!-- replace with the exact post URL -->
-- [breach-insights](https://github.com/paulynnat/breach-insights): a data governance notebook suite that turns privacy enforcement case files into structured insight on breaches, remediation and vendor accountability.
+- [breach-insights](https://github.com/paulynnat/breach-insights): my master's thesis at ESSEC, a data governance notebook suite that turns privacy enforcement case files into structured insight on breaches, remediation and vendor accountability.
 
 ## Reach me
 
-Workshops and consulting for schools and teams: 50-minute sessions, student pages free to copy.
+Workshops and consulting for schools and teams, in 50-minute sessions.
 
 - Email: digital.literacy.studio65@gmail.com
 - Writing: [medium.com/@paulynnat](https://medium.com/@paulynnat)
