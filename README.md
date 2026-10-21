@@ -24,7 +24,7 @@ The five moves: Scan the whole board · Spot the open three · Block the four fi
 
 ## Reach me
 
-Workshops and consulting for schools and teams, in 50-minute sessions.
+Workshops and consulting for schools and teams.
 
 - Email: digital.literacy.studio65@gmail.com
 - Writing: [medium.com/@paulynnat](https://medium.com/@paulynnat)
