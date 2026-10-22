@@ -1,6 +1,6 @@
 # Pauline Natalie L. · Digital Literacy Studio
 
-Writer and educator-builder. I teach thinking, reading and writing in the age of AI, and I build the books, journal and app I teach from. I run workshops and consulting for schools and for L&D teams, and I bring a tech-risk and data governance background to AI in learning. ACLP · Harvard GSE · Project Zero · ESSEC.
+Writer and educator-builder. I teach thinking, reading and writing in the age of AI, and I build the books, journal and app I teach from. I run workshops and consulting for schools and for L&D teams, and I bring a tech-risk and data governance background to AI in learning. ACLP · ESSEC · Harvard GSE · Project Zero.
 
 *First the plot, then the point, then the fine print.*
 
